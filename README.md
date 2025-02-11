@@ -6,7 +6,7 @@
 
 ### 1. Колинрование репозитория
 ```sh
-git clone ...
+https://github.com/TheMaZe1/django_practice.git
 ```
 
 ### 2. Настройка окружения
